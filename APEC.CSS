@@ -1,0 +1,48 @@
+h1{
+    background-color: #ECCEAE;
+    color: #131842;
+    padding: 8px 14px;
+    width: 1280px;
+}
+
+ol{
+    list-style-type:upper-roman;
+    list-style-position: inside;
+    background-color: lightsalmon;
+    padding: 20px;
+}
+
+ul{
+    list-style-type: disc;
+    list-style-position: inside;
+    background-color: navajowhite;
+    padding: 20px;
+}
+
+ol{
+    list-style-type:upper-roman;
+    list-style-position: inside;
+    padding: 20px;
+}
+
+li{
+    list-style-type: upper-roman;
+    list-style-position: indside;
+    padding: 20px;
+}
+
+p.satu{
+    font-size: medium;
+}
+
+h2{
+    font-size: x-large;
+    color: #E68369;
+    background-color: #ECCEAE;
+}
+
+h3{
+    font-size: x-large;
+    color: #131842;
+    background-color: #ECCEAE;
+}
